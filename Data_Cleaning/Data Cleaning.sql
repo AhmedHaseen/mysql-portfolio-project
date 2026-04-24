@@ -1,5 +1,5 @@
 -- ============================================================
--- PROJECT   : Tech Layoffs Data Cleaning
+-- PROJECT   : Global Layoffs Data Cleaning
 -- DATASET   : https://www.kaggle.com/datasets/swaptr/layoffs-2022
 -- DATABASE  : world_layoffs
 -- PURPOSE   : Clean and standardize raw layoffs data for EDA
